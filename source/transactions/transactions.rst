@@ -2,9 +2,10 @@ Transactions
 ========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    acid
+   transaction-states
    parallel-transactions
    distributed-transactions
 

@@ -37,9 +37,8 @@ db-internals cheatsheet
    :maxdepth: 3
    :caption: Contents:
 
-   transactions
-   .. parallel-transactions
-   .. distributed-transactions
+   transactions/transactions
+   
 
 .. note::
    This documentation is under development!
