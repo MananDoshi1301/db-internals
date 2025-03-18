@@ -6,8 +6,9 @@ Transactions
 
    acid
    transaction-states
-   parallel-transactions
-   distributed-transactions
+   transaction_isolation/transaction_isolation
+   .. parallel-transactions
+   .. distributed-transactions
 
 
 **Transactions** is a fundamental concept within databases to perform some operations on multiple databases and tables as one unit of work! 
